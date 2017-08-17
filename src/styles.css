@@ -1,0 +1,21 @@
+
+body {
+    margin: 0 auto;
+    background-color: #dfe3ee;
+ 
+}
+#header {
+    height: 80px;
+    background-color: #3b5998;
+    box-shadow: 0px 1px 1px #060606;
+    
+}
+#header h1 {
+    margin: 0;
+    height: 10%;
+    position: relative;
+    top: 30%;
+    text-align: center;
+    font-size: 32px;
+    color: #ffffff;
+}
